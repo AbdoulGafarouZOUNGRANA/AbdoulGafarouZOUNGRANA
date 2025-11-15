@@ -1,3 +1,5 @@
+
+
 name: Generate Snake
 
 on:
@@ -26,4 +28,3 @@ jobs:
           git add dist/snake.svg
           git commit -m "Generated Snake Animation" || echo "No changes to commit"
           git push
-
