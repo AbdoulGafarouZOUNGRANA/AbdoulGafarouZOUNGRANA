@@ -49,7 +49,7 @@ Team project where I worked on module customization, workflow automation and sys
 
 ### 🔧 In Progress
 **WhatsApp Real-Time Translation Extension**  
-A Cloudflare Worker + AI project that translates incoming messages in real time (DZ Arabic → FR → EN).
+A Cloudflare Worker + AI project that translates incoming messages in real time (DARIJA → FRENCH).
 
 
 ### 📅 Coming Soon
