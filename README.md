@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm Abdoul Gafarou ZOUNGRANA</h1>
-<h3 align="center">Future Cybersecurity Engineer | CS Engineering Student at École Mohammadia d’Ingénieurs (EMI) | AI & Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi, I'm Abdoul Gafarou ZOUNGRANA 👋</h1>
+<h3 align="center">Cybersecurity & AI Enthusiast | CS Engineering Student at EMI</h3>
+
+---
+
+## 👨‍💻 About Me
+I'm a Computer Science Engineering student at **École Mohammadia d’Ingénieurs (EMI)**.  
+I’m really passionate about **cybersecurity**, **AI**, and everything related to tech and problem-solving.
+
+I recently joined **IT Academy** in the Competition Cell, where I get to learn, practice and challenge myself with people who share the same passion.
+
+Besides tech, I'm also a **content creator** with **30K+ followers on TikTok**, mainly sharing football-related edits.  
+Tech and creativity both matter to me, and I like growing in both worlds.
 
 
-
-## 🔥 About Me
-- 🎓 Computer Science Engineering Student at **École Mohammadia d’Ingénieurs (EMI)**
-- 🔐 Strong interest in **Cybersecurity**, Linux systems, network fundamentals & ethical hacking  
-- 🤖 Passionate about **Artificial Intelligence**, problem-solving & automation  
-- 🧩 Member of **IT Academy** (Competition Cell) – a leading tech club focused on Cybersecurity & AI  
-- ☁️ Experience with **Cloudflare Workers**, APIs & automation tools  
-- 🎥 **Content Creator with 30K+ followers on TikTok**, specializing in football & sports video editing (Capcut + Canva)  
-- 🌱 Constantly learning, experimenting, and improving my technical skills  
-
-
-
-## 🧠 Languages I Know
+## 🧠 Languages & Skills
 <div align="center">
 
 ![Languages](https://skillicons.dev/icons?i=python,java,js,html,css,c)
@@ -22,73 +21,63 @@
 </div>
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tools & Technologies
 <div align="center">
 
 ![Tools](https://skillicons.dev/icons?i=linux,github,vscode,cloudflare,canva)
 
 </div>
 
-### 🔧 Additional Tools
-- **Adobe Premiere Pro**  
-- **Odoo ERP**  
-- **HubSpot CRM**
+**Other tools I use:**  
+Adobe Premiere Pro • Odoo ERP • HubSpot
 
 
-## 🛡️ Cybersecurity & Operating Systems
-<div align="center">
-
-![Cyber](https://skillicons.dev/icons?i=linux,bash)
-
-</div>
-
-- 🐱 **Kali Linux**  
-- 🐧 **Ubuntu**  
-- 📘 Studying cybersecurity fundamentals (Cisco Networking Academy)  
-- 🛡️ Practicing challenges & labs on **TryHackMe**  
-- 🔍 Exploring ethical hacking basics (reconnaissance, Linux security, networking concepts)  
+## 🔐 Cybersecurity
+- Kali Linux & Ubuntu  
+- Basics of ethical hacking  
+- Network fundamentals  
+- Practicing on **TryHackMe**  
+- Learning through **Cisco Networking Academy**
 
 
 ## 🚀 Projects
 
-### 🟩 Completed Projects
-- 🏢 **Real Estate Agency Management System (Odoo ERP + HubSpot + AppliCEO)**  
-  A complete real estate management solution built as a team of four.  
-  I contributed to module customization, database setup, workflow automation & system logic.  
+### ✔️ Completed
+**Real Estate Agency Management System (Odoo ERP + HubSpot + AppliCO)**  
+Team project where I worked on module customization, workflow automation and system logic.
 
 
-### 🟨 In Progress
-- 🔁 **WhatsApp Real-Time Translation Extension**  
-  A Cloudflare Worker + AI API solution that automatically translates WhatsApp messages in real time  
-  (darija → French ).  
-  Currently improving the architecture before publishing the repository.
+### 🔧 In Progress
+**WhatsApp Real-Time Translation Extension**  
+A Cloudflare Worker + AI project that translates incoming messages in real time (DZ Arabic → FR → EN).
 
 
-### 🟦 Planned Projects
-- 🛡️ Cybersecurity labs & learning roadmap (TryHackMe, Linux security, network analysis)  
-- 🤖 AI/ML mini-projects & automation tools  
+### 📅 Coming Soon
+Cybersecurity labs • AI mini-projects  
 
 
 ## 📊 GitHub Stats
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zoungaf&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AbdoulGafarouZOUNGRANA&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoungaf&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoulGafarouZOUNGRANA&layout=compact&theme=tokyonight)
 
 </div>
 
 
-## 🐍 Contributions Snake
+## 🐍 Contribution Snake
 <div align="center">
 
-![snake gif](https://github.com/zoungaf/zoungaf/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AbdoulGafarouZOUNGRANA/AbdoulGafarouZOUNGRANA/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 
-## 🌍 Connect with Me
-- 📧 Email: **abdoulgafarouzoungrana6@gmail.com**  
-- 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/abdoul-gafarou-zoungrana-486280323)  
-- 🌐 Portfolio: *Coming soon…*  
+## 🌍 Connect
+- 📧 **abdoulgafarouzoungrana6@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdoul-gafarou-zoungrana-486280323)  
+- 🌐 Portfolio coming soon  
+
+
 
