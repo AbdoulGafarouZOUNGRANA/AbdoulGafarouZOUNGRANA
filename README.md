@@ -68,8 +68,9 @@ Cybersecurity labs • AI mini-projects
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdoulGafarouZOUNGRANA/AbdoulGafarouZOUNGRANA/output/dist/snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/AbdoulGafarouZOUNGRANA/AbdoulGafarouZOUNGRANA/main/dist/snake.svg" alt="snake animation">
 </div>
+
 
 
 
