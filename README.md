@@ -68,10 +68,9 @@ Cybersecurity labs • AI mini-projects
 
 ## 🐍 Contribution Snake
 <div align="center">
-
-![snake gif](https://github.com/AbdoulGafarouZOUNGRANA/AbdoulGafarouZOUNGRANA/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/AbdoulGafarouZOUNGRANA/AbdoulGafarouZOUNGRANA/output/dist/snake.svg" alt="snake animation">
 </div>
+
 
 
 ## 🌍 Connect
