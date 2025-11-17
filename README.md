@@ -77,7 +77,7 @@ Cybersecurity labs • AI mini-projects
 ## 🌍 Connect
 - 📧 **abdoulgafarouzoungrana6@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abdoul-gafarou-zoungrana-486280323)  
-- 🌐 Portfolio coming soon  
+- 🌐 https://abdoulgafarouzoungrana.github.io/portfolio/
 
 
 
