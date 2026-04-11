@@ -18,22 +18,7 @@ Tech and creativity both matter to me, and I like growing in both worlds.
 
 ![Languages](https://skillicons.dev/icons?i=python,java,js,html,css,c)
 
-</div>
-
-## 🚀 Projects
-
-### ✔️ Completed
-**Real Estate Agency Management System (Odoo ERP + HubSpot + AppliCO)**  
-Team project where I worked on module customization, workflow automation and system logic.
-
-
-### 🔧 In Progress
-**WhatsApp Real-Time Translation Extension**  
-A Cloudflare Worker + AI project that translates incoming messages in real time (DARIJA → FRENCH).
-
-
-### 📅 Coming Soon
-Cybersecurity labs • AI mini-projects  
+</div>  
 
 
 ## 📊 GitHub Stats
