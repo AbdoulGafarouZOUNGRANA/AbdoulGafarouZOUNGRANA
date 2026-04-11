@@ -7,7 +7,7 @@
 I'm a Computer Science Engineering student at **École Mohammadia d’Ingénieurs (EMI)**.  
 I’m really passionate about **cybersecurity**, **AI**, and everything related to tech and problem-solving.
 
-I recently joined **IT Academy** in the Competition Cell, where I get to learn, practice and challenge myself with people who share the same passion.
+I recently joined **IT Academy** in the Competition Cell, where I will learn, practice and challenge myself with people who share the same passion.
 
 Besides tech, I'm also a **content creator** with **30K+ followers on TikTok**, mainly sharing football-related edits.  
 Tech and creativity both matter to me, and I like growing in both worlds.
@@ -19,26 +19,6 @@ Tech and creativity both matter to me, and I like growing in both worlds.
 ![Languages](https://skillicons.dev/icons?i=python,java,js,html,css,c)
 
 </div>
-
-
-## 🛠️ Tools & Technologies
-<div align="center">
-
-![Tools](https://skillicons.dev/icons?i=linux,github,vscode,cloudflare,canva)
-
-</div>
-
-**Other tools I use:**  
-Adobe Premiere Pro • Odoo ERP • HubSpot
-
-
-## 🔐 Cybersecurity
-- Kali Linux & Ubuntu  
-- Basics of ethical hacking  
-- Network fundamentals  
-- Practicing on **TryHackMe**  
-- Learning through **Cisco Networking Academy**
-
 
 ## 🚀 Projects
 
